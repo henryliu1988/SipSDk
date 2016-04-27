@@ -1,0 +1,17 @@
+com.zhong.sip.pjsip.player
+com.zhonghu.sip.api
+com.zhonghu.sip.pjsip
+com.zhonghu.sip.pjsip.earlylock
+com.zhonghu.sip.pjsip.recorder
+com.zhonghu.sip.pjsip.reghandler
+com.zhonghu.sip.pjsip.sipclf
+com.zhonghu.sip.pref
+com.zhonghu.sip.receiver
+com.zhonghu.sip.service
+com.zhonghu.sip.uti.accessibility
+com.zhonghu.sip.util.audio
+com.zhonghu.sip.util.bluetooth
+com.zhonghu.sip.utils
+com.zhonghu.sip.wizard
+com.zhonghu.sipsdk
+org.pjsip.pjsua
